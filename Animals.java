@@ -1,5 +1,5 @@
 public class Animals {
     public static void main(String[] args) {
-        System.out.println("All animals are useful");
+        System.out.println("All animals are useful\n Animals///");
     }
 }
